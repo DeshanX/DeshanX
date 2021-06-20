@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me?? No you can't
+- 📫 How to reach me?? No you can't! ;D
 
 <!---
 DeshanX/DeshanX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
